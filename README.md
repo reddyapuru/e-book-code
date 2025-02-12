@@ -61,6 +61,7 @@ For questions, feedback, or additional support, please contact:
 
 - **Author**: A. Purushotham Reddy
 - **Email**: reddyapuru@gmail.com
+- **Website**: www.latest2all.com
 - **E-Book**: [Database Management Using AI on Google Play Books](https://play.google.com/store/books/details/A_Purushotham_Reddy_Database_Management_using_AI_A?id=gBYrEQAAQBAJ)
 
 ---
