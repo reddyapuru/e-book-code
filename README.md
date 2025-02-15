@@ -32,13 +32,11 @@ To run the code provided in this repository, ensure you have the following insta
    ```bash
    git clone https://github.com/reddyapuru/e-book-code.git
    ```
-
 2. Open the source code in Jupyter notebook
-   ```
-
+   
 3. Run the script to see the output
 
----
+
 
 ## Contributions
 
