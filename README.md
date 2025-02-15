@@ -11,8 +11,9 @@ Welcome to the source code repository for **"DATABASE MANAGEMENT USING AI: A Com
 You can purchase or preview the e-book from:
 - [Google Play Books](https://play.google.com/store/books/details/A_Purushotham_Reddy_Database_Management_using_AI_A?id=gBYrEQAAQBAJ)
 
----
 
+---
+For comprehensive details on our exclusive promo codes and engaging quizzes, be sure to explore our detailed guides on our [GitHub Wiki](https://github.com/reddyapuru/e-book-code/wiki) and visit [Latest2All](https://www.latest2all.com). Discover insider tips, step-by-step instructions, and the latest updates to maximize your experience with our innovative tools.
 ## Prerequisites
 
 To run the code provided in this repository, ensure you have the following installed:
